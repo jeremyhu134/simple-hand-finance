@@ -7,7 +7,7 @@ import { Providers } from './providers';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Local Lambda App',
+  title: 'Simple Hand Finance',
   description: 'Upload documents and process with Lambda/Bedrock',
 }
 
